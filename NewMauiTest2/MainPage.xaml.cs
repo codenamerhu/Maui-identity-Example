@@ -18,7 +18,7 @@ public partial class MainPage : ContentPage
         SybrinIdentityConfiguration sybrinIdentityConfiguration = new SybrinIdentityConfiguration.Builder(SYBRIN_LICENSE).Build();
         SybrinIdentity si = SybrinIdentity.GetInstance(Android.App.Application.Context, sybrinIdentityConfiguration);
 
-        //si.ScanDocument(Com.Sybrin.Identity.Enums.Document.SouthAfricaIDCard).AddOnSuccessListener(result);
+        si.ScanDocument(Com.Sybrin.Identity.Enums.Document.SouthAfricaIDCard).AddOnSuccessListener(result);
         //    .AddOnSuccessListener(p0: k);
         //.AddOnFailureListener(e =>
         //{
