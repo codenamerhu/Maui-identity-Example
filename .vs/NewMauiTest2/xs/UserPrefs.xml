@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9D66CB42-C2DA-490A-BB88-844469980DEC}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_Pro_API_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NewMauiTest2 PreferredExecutionTarget="Android.Pixel_6_Pro_API_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewMauiTest2/IdentityScannerAdapter.cs">
+    <Files>
+      <File FileName="NewMauiTest2/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="NewMauiTest2/MainPage.xaml.cs" Line="41" Column="2" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.Android.Sdk.Darwin/33.0.68/tools/Xamarin.Android.Aapt2.targets" Line="212" Column="3" />
+      <File FileName="NewMauiTest2/IdentityScannerAdapter.cs" Line="4" Column="1" />
+      <File FileName="NewMauiTest2/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="NewMauiTest2/Main.razor" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.306/Microsoft.Common.CurrentVersion.targets" Line="2352" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewMauiTest2" expanded="True">
+            <Node name="NewMauiTest2" expanded="True" selected="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

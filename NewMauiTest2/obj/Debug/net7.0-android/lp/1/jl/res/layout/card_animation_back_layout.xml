@@ -1,0 +1,5 @@
+<!--
+  ~ Copyright (c) 2020 Sybrin Systems. All rights reserved.
+  ~ Created by Armand Riley on  2020/10/01 1:36 PM
+  ~
+  --><RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0.8" xmlns:android="http://schemas.android.com/apk/res/android"><View android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:background="@drawable/animation_card_back"></View></RelativeLayout>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="NewMauiTest2.app">
+      <CodesignSigningKey>82DB85056E90EE7D2607302C49CBAF9BD45BB7E6</CodesignSigningKey>
+      <CodesignEntitlements>/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-ios/ios-arm64/Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>/Users/rndhlovu/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>
