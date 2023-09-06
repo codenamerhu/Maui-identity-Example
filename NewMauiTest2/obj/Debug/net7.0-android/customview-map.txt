@@ -31,6 +31,7 @@ com.google.android.material.appbar.MaterialToolbar;/Users/rndhlovu/Projects/NewM
 com.google.android.material.tabs.TabLayout;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/155/jl/res/layout/tabbar.xml
 com.sybrin.camera.camera.CameraSourcePreview;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/1/jl/res/layout/identity_scanning_activity_layout.xml
 com.sybrin.identity.overlays.OverlayWrapper;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/1/jl/res/layout/identity_scanning_activity_layout.xml
+crc640ec207abc449b2ca.ShellFlyoutLayout;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/154/jl/res/layout/flyoutcontent.xml
 declare-styleable;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/155/jl/res/values/attrs.xml
 declare-styleable;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/157/jl/res/values/attr.xml
 dimen;/Users/rndhlovu/Projects/NewMauiTest2/NewMauiTest2/obj/Debug/net7.0-android/lp/1/jl/res/values/values.xml
